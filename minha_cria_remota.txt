@@ -1,0 +1,1 @@
+Esse arquivo foi criado para treinamento de movimentação de arquivos entre a máquina e o servidor do Git. Excelente essa experiência.
